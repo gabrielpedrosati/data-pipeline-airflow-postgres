@@ -1,0 +1,4 @@
+dags/__pycache__
+dags/data/csv/2023-02-02
+dags/data/postgres/2023-02-02
+logs/*
